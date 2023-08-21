@@ -1,0 +1,80 @@
+#logoonu{
+    background-color: rgb(166, 240, 166);
+    border:15px rgb(102, 241, 102) solid;
+    border-radius: 60px;
+    padding: 20px;
+    text-align: center;
+}
+#texto1{
+    background-color:rgb(171, 171, 235);
+    margin-top: 20px;
+    border: 10px rgb(100, 158, 220) solid;
+    border-radius: 60px;
+    padding: 10px;
+    text-align: center; 
+}
+.logoods {
+    background-color: rgb(246, 246, 149);
+    border: 10px rgb(245, 188, 74) solid;
+    border-radius: 60px;
+    margin-top: 40px;
+    padding: 20px;  
+    text-align: center; 
+}
+.logoods img{
+    -webkit-transition: -webkit-transform .5s ease;
+    transition: transform .5s ease; 
+}
+.logoods img:hover{
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+.logoods h1 {  
+    text-transform: uppercase;
+    text-align: center; 
+}
+.figuras {
+    background-color: rgb(182, 243, 91);
+    border: 10px rgb(100, 220, 100) solid;
+    border-radius: 60px;
+    margin-top: 20px;
+    padding: 20px;
+    align-items: center;
+    text-align: center; 
+}
+.figuras img, h2{
+    display: inline-block;
+    padding-inline: 4px;
+    margin-left: 10px;
+    margin-top: 20px;    
+}
+.figuras img{
+    -webkit-transition: -webkit-transform .5s ease;
+    transition: transform .5s ease; 
+}
+.figuras img:hover{
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+.figuras h2{
+    font-family: Oswald;
+    font-size: 30px;
+    line-height: 100px;
+    margin-top: 8px;
+    margin-bottom: 65px;
+    padding: 20 px;
+    color: black;
+    text-transform: uppercase;
+}
+h3{
+    background: rgb(242, 167, 227);
+    border: 10px  rgb(246, 79, 79) solid;
+    border-radius: 60px;
+    font-family:Georgia;
+    font-size: 30px;
+    line-height: 100px;
+    padding: 20px;
+    text-align: center; 
+}
+
+
